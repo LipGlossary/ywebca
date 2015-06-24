@@ -1,0 +1,16 @@
+{
+  "name": "ywca-workspace",
+  "version": "0.0.1",
+  "description": "YWCA Workspace for Annalise Haynes",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:LipGlossary/ywebca.git"
+  },
+  "author": {
+    "name": "Annalise Haynes",
+    "email": "annalise@adorable.io",
+    "url": "https://github.com/LipGlossary"
+  },
+  "license": "MIT",
+  "dependencies": {}
+}
